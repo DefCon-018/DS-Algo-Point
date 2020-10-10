@@ -139,6 +139,8 @@ Format: -[Program name](name of the file)
 
 -[Swap Two Numbers Without Third Variable](SwapNumbersWithoutThirdVariable.java)
 
+-[Top View of Binary Tree](Top_View.java)
+
 -[Tarjan Algorithm](tarjan.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
