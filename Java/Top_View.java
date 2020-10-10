@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class TopView {
+public class Top_View {
     static private class TreeNode {
         int data;
         TreeNode left;
